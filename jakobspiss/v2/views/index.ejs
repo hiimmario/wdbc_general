@@ -1,0 +1,10 @@
+
+<a href="/addcontent">add content</a>
+
+<% images.forEach(function(image) { %>
+    <li>
+        <h3><a href="<%= image._id%>">details</a> </h3>
+        <img src="<%= image.src %>" height="200" width="200">
+        <div>----------------------------------</div>
+    </li>
+<% }); %>
