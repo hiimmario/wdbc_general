@@ -9,3 +9,11 @@ i.icon {
 #delete {
     display: inline;
 }
+
+#blog_title {
+    text-align: center;
+}
+
+.righti {
+    text-align: right;
+}
