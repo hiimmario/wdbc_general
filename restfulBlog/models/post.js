@@ -6,6 +6,13 @@ var blogSchema = new mongoose.Schema({
     image: String,
     body: String,
     created: {type: Date, default: Date.now},
+    author: {
+        id: {
+            type: mongoose.Schema.Types.ObjectId,
+            ref: "user"
+        },
+        username: String
+    },
     comments: [
         {
             type: mongoose.Schema.Types.ObjectId,

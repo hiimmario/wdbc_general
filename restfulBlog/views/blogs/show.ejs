@@ -20,12 +20,14 @@
             </div>
             <div class="ui divider"></div>
 
+            <% if(user && blog.author.id.equals(user._id)) { %>
             <div class="righti">
                 <form id="delete" action="/blogs/<%= blog._id %>?_method=DELETE" method="POST">
                     <button class="ui red basic button">Delete</button>
                 </form>
                 <a class="ui orange basic button" href="/blogs/<%= blog._id %>/edit">Edit</a>
             </div>
+            <% } %>
 
             <div class="ui comments">
                 <h3 class="ui dividing header">Comments</h3>
@@ -33,13 +35,19 @@
                     <% blog.comments.forEach(function(comment) { %>
                         <div class="comment">
                             <div class="content">
-                                <a class="author"><%= comment.author %></a>
+                                <a class="author"><%= comment.author.username %></a>
                                 <div class="metadata">
                                     <span class="date"><%= comment.created %></span>
                                 </div>
                                 <div class="text">
                                     <%= comment.text %>
                                 </div>
+                                <% if(user && comment.author.id.equals(user._id)) { %>
+                                    <a class="ui orange basic button" href="/blogs/<%= blog._id %>/comments/<%= comment._id %>/edit">Edit Comment</a>
+                                    <form id="delete" action="/blogs/<%= blog._id %>/comments/<%= comment._id %>?_method=DELETE" method="POST">
+                                        <button class="ui red basic button">Delete Comment</button>
+                                    </form>
+                                <% } %>
                             </div>
                         </div>
                     <% }); %>
