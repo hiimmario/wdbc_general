@@ -1,0 +1,4950 @@
+// 20180209172714
+// http://localhost:8080/matches
+
+[
+  {
+    "id": 24965,
+    "tournament_id": 750,
+    "name": "V3 vs RJ",
+    "begin_at": "2018-02-16T11:00:00Z",
+    "results": [
+      {
+        "team_id": 1356,
+        "score": 0
+      },
+      {
+        "team_id": 651,
+        "score": 0
+      }
+    ],
+    "serie_id": 1378,
+    "league_id": 2092,
+    "serie": {
+      "id": 1378,
+      "slug": "league-of-legends-ljl-japan-spring-2018",
+      "name": null,
+      "season": "Spring",
+      "year": 2018
+    },
+    "league": {
+      "id": 2092,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/2092/ljl-japan-j27k8oms.png",
+      "url": null,
+      "name": "LJL Japan",
+      "slug": "league-of-legends-ljl-japan"
+    },
+    "updated_at": "2018-02-09T10:30:40Z",
+    "number_of_games": 3,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 750,
+      "name": "Regular season",
+      "slug": "league-of-legends-ljl-japan-spring-2018-regular-season",
+      "winner_id": null,
+      "begin_at": "2018-02-09T11:00:00Z",
+      "end_at": "2018-03-31T18:00:00Z",
+      "serie_id": 1378,
+      "league_id": 2092
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 174058,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 24965
+      },
+      {
+        "id": 174059,
+        "position": 2,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 24965
+      },
+      {
+        "id": 174060,
+        "position": 3,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 24965
+      }
+    ],
+    "opponents": [
+      {
+        "id": 1356,
+        "type": "Team",
+        "opponent": {
+          "id": 1356,
+          "name": "V3 Esports",
+          "acronym": "V3",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1356/v3-esports-4j9hu4jm.png"
+        }
+      },
+      {
+        "id": 651,
+        "type": "Team",
+        "opponent": {
+          "id": 651,
+          "name": "Rascal Jester",
+          "acronym": "RJ",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/651/rascal-jester-g32ay08v.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 24964,
+    "tournament_id": 750,
+    "name": "7h vs V3",
+    "begin_at": "2018-02-11T11:00:00Z",
+    "results": [
+      {
+        "team_id": 650,
+        "score": 0
+      },
+      {
+        "team_id": 1356,
+        "score": 0
+      }
+    ],
+    "serie_id": 1378,
+    "league_id": 2092,
+    "serie": {
+      "id": 1378,
+      "slug": "league-of-legends-ljl-japan-spring-2018",
+      "name": null,
+      "season": "Spring",
+      "year": 2018
+    },
+    "league": {
+      "id": 2092,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/2092/ljl-japan-j27k8oms.png",
+      "url": null,
+      "name": "LJL Japan",
+      "slug": "league-of-legends-ljl-japan"
+    },
+    "updated_at": "2018-02-09T10:30:40Z",
+    "number_of_games": 3,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 750,
+      "name": "Regular season",
+      "slug": "league-of-legends-ljl-japan-spring-2018-regular-season",
+      "winner_id": null,
+      "begin_at": "2018-02-09T11:00:00Z",
+      "end_at": "2018-03-31T18:00:00Z",
+      "serie_id": 1378,
+      "league_id": 2092
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 174055,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 24964
+      },
+      {
+        "id": 174056,
+        "position": 2,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 24964
+      },
+      {
+        "id": 174057,
+        "position": 3,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 24964
+      }
+    ],
+    "opponents": [
+      {
+        "id": 650,
+        "type": "Team",
+        "opponent": {
+          "id": 650,
+          "name": "7th heaven",
+          "acronym": "7h",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/650/7th-heaven-go4at0st.png"
+        }
+      },
+      {
+        "id": 1356,
+        "type": "Team",
+        "opponent": {
+          "id": 1356,
+          "name": "V3 Esports",
+          "acronym": "V3",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1356/v3-esports-4j9hu4jm.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 24963,
+    "tournament_id": 750,
+    "name": "DFM vs USG",
+    "begin_at": "2018-02-10T08:00:00Z",
+    "results": [
+      {
+        "team_id": 89,
+        "score": 0
+      },
+      {
+        "team_id": 648,
+        "score": 0
+      }
+    ],
+    "serie_id": 1378,
+    "league_id": 2092,
+    "serie": {
+      "id": 1378,
+      "slug": "league-of-legends-ljl-japan-spring-2018",
+      "name": null,
+      "season": "Spring",
+      "year": 2018
+    },
+    "league": {
+      "id": 2092,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/2092/ljl-japan-j27k8oms.png",
+      "url": null,
+      "name": "LJL Japan",
+      "slug": "league-of-legends-ljl-japan"
+    },
+    "updated_at": "2018-02-09T10:30:40Z",
+    "number_of_games": 3,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 750,
+      "name": "Regular season",
+      "slug": "league-of-legends-ljl-japan-spring-2018-regular-season",
+      "winner_id": null,
+      "begin_at": "2018-02-09T11:00:00Z",
+      "end_at": "2018-03-31T18:00:00Z",
+      "serie_id": 1378,
+      "league_id": 2092
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 174052,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 24963
+      },
+      {
+        "id": 174053,
+        "position": 2,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 24963
+      },
+      {
+        "id": 174054,
+        "position": 3,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 24963
+      }
+    ],
+    "opponents": [
+      {
+        "id": 89,
+        "type": "Team",
+        "opponent": {
+          "id": 89,
+          "name": "DetonatioN FocusMe",
+          "acronym": "DFM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/89/detonation-focusme-fpnjh4v7.png"
+        }
+      },
+      {
+        "id": 648,
+        "type": "Team",
+        "opponent": {
+          "id": 648,
+          "name": "Unsold Stuff Gaming",
+          "acronym": "USG",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/648/unsold-stuff-gaming-9qmlyqpb.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 24961,
+    "tournament_id": 750,
+    "name": "PTG vs V3",
+    "begin_at": "2018-02-09T11:22:40Z",
+    "results": [
+      {
+        "team_id": 1646,
+        "score": 2
+      },
+      {
+        "team_id": 1356,
+        "score": 1
+      }
+    ],
+    "serie_id": 1378,
+    "league_id": 2092,
+    "serie": {
+      "id": 1378,
+      "slug": "league-of-legends-ljl-japan-spring-2018",
+      "name": null,
+      "season": "Spring",
+      "year": 2018
+    },
+    "league": {
+      "id": 2092,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/2092/ljl-japan-j27k8oms.png",
+      "url": null,
+      "name": "LJL Japan",
+      "slug": "league-of-legends-ljl-japan"
+    },
+    "updated_at": "2018-02-09T13:02:38Z",
+    "number_of_games": 3,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 750,
+      "name": "Regular season",
+      "slug": "league-of-legends-ljl-japan-spring-2018-regular-season",
+      "winner_id": null,
+      "begin_at": "2018-02-09T11:00:00Z",
+      "end_at": "2018-03-31T18:00:00Z",
+      "serie_id": 1378,
+      "league_id": 2092
+    },
+    "winner": {
+      "id": 1646,
+      "name": "PENTAGRAM",
+      "acronym": "PGM",
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1646/300px-PENTAGRAMlogo_square.png"
+    },
+    "games": [
+      {
+        "id": 174051,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": true,
+        "winner": {
+          "type": "Team",
+          "id": 1356
+        },
+        "winner_type": "Team",
+        "match_id": 24961
+      },
+      {
+        "id": 174049,
+        "position": 2,
+        "length": null,
+        "begin_at": "2018-02-09T11:22:40Z",
+        "finished": true,
+        "winner": {
+          "type": "Team",
+          "id": 1646
+        },
+        "winner_type": "Team",
+        "match_id": 24961
+      },
+      {
+        "id": 174050,
+        "position": 3,
+        "length": null,
+        "begin_at": "2018-02-09T12:22:38Z",
+        "finished": true,
+        "winner": {
+          "type": "Team",
+          "id": 1646
+        },
+        "winner_type": "Team",
+        "match_id": 24961
+      }
+    ],
+    "opponents": [
+      {
+        "id": 1646,
+        "type": "Team",
+        "opponent": {
+          "id": 1646,
+          "name": "PENTAGRAM",
+          "acronym": "PGM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1646/300px-PENTAGRAMlogo_square.png"
+        }
+      },
+      {
+        "id": 1356,
+        "type": "Team",
+        "opponent": {
+          "id": 1356,
+          "name": "V3 Esports",
+          "acronym": "V3",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1356/v3-esports-4j9hu4jm.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 23863,
+    "tournament_id": 36,
+    "name": "T8 vs IMG",
+    "begin_at": "2015-09-07T00:00:00Z",
+    "results": [
+      {
+        "team_id": 6,
+        "score": 0
+      },
+      {
+        "team_id": 46,
+        "score": 0
+      }
+    ],
+    "serie_id": 33,
+    "league_id": 289,
+    "serie": {
+      "id": 33,
+      "slug": "league-of-legends-na-lcs-spring-2016",
+      "name": "",
+      "season": "Spring",
+      "year": 2016
+    },
+    "league": {
+      "id": 289,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/289/na-lcs-g63ljv52.png",
+      "url": "http://www.lolesports.com/en_US/na-lcs/",
+      "name": "NA LCS",
+      "slug": "league-of-legends-na-lcs"
+    },
+    "updated_at": "2018-02-09T15:01:19Z",
+    "number_of_games": 4,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 36,
+      "name": "Promotion",
+      "slug": "na-lcs-promotion-spring-2016-na-lcs-spring-promotion",
+      "winner_id": null,
+      "begin_at": "2015-09-05T22:00:00Z",
+      "end_at": "2015-09-07T03:00:00Z",
+      "serie_id": 33,
+      "league_id": 289
+    },
+    "winner": {
+      "id": 6,
+      "name": "Team 8",
+      "acronym": "T8",
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/6/Team8_logo.png"
+    },
+    "games": [
+      {
+        "id": 172688,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 23863
+      },
+      {
+        "id": 172689,
+        "position": 2,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 23863
+      },
+      {
+        "id": 172690,
+        "position": 3,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 23863
+      },
+      {
+        "id": 172691,
+        "position": 4,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 23863
+      }
+    ],
+    "opponents": [
+      {
+        "id": 6,
+        "type": "Team",
+        "opponent": {
+          "id": 6,
+          "name": "Team 8",
+          "acronym": "T8",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/6/Team8_logo.png"
+        }
+      },
+      {
+        "id": 46,
+        "type": "Team",
+        "opponent": {
+          "id": 46,
+          "name": "Team Imagine",
+          "acronym": "IMG",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/46/9d91ecea-cab8-11e7-8542-0e6c723feec8.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22210,
+    "tournament_id": 749,
+    "name": "Cap-vs-MCM",
+    "begin_at": "2018-02-06T15:00:00Z",
+    "results": [
+      {
+        "team_id": 1414,
+        "score": 0
+      },
+      {
+        "team_id": 1640,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:45Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170599,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22210
+      }
+    ],
+    "opponents": [
+      {
+        "id": 1414,
+        "type": "Team",
+        "opponent": {
+          "id": 1414,
+          "name": "Cappadocia",
+          "acronym": "CAP",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1414/team-cappadocia-14nv1svx.png"
+        }
+      },
+      {
+        "id": 1640,
+        "type": "Team",
+        "opponent": {
+          "id": 1640,
+          "name": "Macro Maniacs Esports Club",
+          "acronym": "MCM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1640/macro-maniacs-esports-club-i21d87m8.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22209,
+    "tournament_id": 749,
+    "name": "Cap-vs-P3P",
+    "begin_at": "2018-02-13T19:00:00Z",
+    "results": [
+      {
+        "team_id": 1414,
+        "score": 0
+      },
+      {
+        "team_id": 354,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:44Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170598,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22209
+      }
+    ],
+    "opponents": [
+      {
+        "id": 1414,
+        "type": "Team",
+        "opponent": {
+          "id": 1414,
+          "name": "Cappadocia",
+          "acronym": "CAP",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1414/team-cappadocia-14nv1svx.png"
+        }
+      },
+      {
+        "id": 354,
+        "type": "Team",
+        "opponent": {
+          "id": 354,
+          "name": "P3P eSports",
+          "acronym": "P3P",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/354/p3p-esports-iljw943r.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22208,
+    "tournament_id": 749,
+    "name": "P3P-vs-BJK",
+    "begin_at": "2018-02-06T16:00:00Z",
+    "results": [
+      {
+        "team_id": 354,
+        "score": 0
+      },
+      {
+        "team_id": 655,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:43Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170597,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22208
+      }
+    ],
+    "opponents": [
+      {
+        "id": 354,
+        "type": "Team",
+        "opponent": {
+          "id": 354,
+          "name": "P3P eSports",
+          "acronym": "P3P",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/354/p3p-esports-iljw943r.png"
+        }
+      },
+      {
+        "id": 655,
+        "type": "Team",
+        "opponent": {
+          "id": 655,
+          "name": "Beşiktaş",
+          "acronym": "BJK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/655/besiktas-fgamnalz.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22207,
+    "tournament_id": 749,
+    "name": "OHM-vs-P3P",
+    "begin_at": "2018-02-27T17:00:00Z",
+    "results": [
+      {
+        "team_id": 352,
+        "score": 0
+      },
+      {
+        "team_id": 354,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:43Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170596,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22207
+      }
+    ],
+    "opponents": [
+      {
+        "id": 352,
+        "type": "Team",
+        "opponent": {
+          "id": 352,
+          "name": "OYUNHİZMETLERİ E-SPOR KULÜBÜ",
+          "acronym": "OHM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/352/oyunhizmetleri-e-spor-kulubu-bq8nsyn0.png"
+        }
+      },
+      {
+        "id": 354,
+        "type": "Team",
+        "opponent": {
+          "id": 354,
+          "name": "P3P eSports",
+          "acronym": "P3P",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/354/p3p-esports-iljw943r.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22206,
+    "tournament_id": 749,
+    "name": "MCM-vs-P3P",
+    "begin_at": "2018-01-30T18:12:27Z",
+    "results": [
+      {
+        "team_id": 1640,
+        "score": 1
+      },
+      {
+        "team_id": 354,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-02-06T22:31:29Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": {
+      "id": 1640,
+      "name": "Macro Maniacs Esports Club",
+      "acronym": "MCM",
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1640/macro-maniacs-esports-club-i21d87m8.png"
+    },
+    "games": [
+      {
+        "id": 170595,
+        "position": 1,
+        "length": 2373,
+        "begin_at": "2018-01-30T18:12:27Z",
+        "finished": true,
+        "winner": {
+          "type": "Team",
+          "id": 1640
+        },
+        "winner_type": "Team",
+        "match_id": 22206
+      }
+    ],
+    "opponents": [
+      {
+        "id": 1640,
+        "type": "Team",
+        "opponent": {
+          "id": 1640,
+          "name": "Macro Maniacs Esports Club",
+          "acronym": "MCM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1640/macro-maniacs-esports-club-i21d87m8.png"
+        }
+      },
+      {
+        "id": 354,
+        "type": "Team",
+        "opponent": {
+          "id": 354,
+          "name": "P3P eSports",
+          "acronym": "P3P",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/354/p3p-esports-iljw943r.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22205,
+    "tournament_id": 749,
+    "name": "MCM-vs-CLK",
+    "begin_at": "2018-02-27T19:00:00Z",
+    "results": [
+      {
+        "team_id": 1640,
+        "score": 0
+      },
+      {
+        "team_id": 355,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:41Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170594,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22205
+      }
+    ],
+    "opponents": [
+      {
+        "id": 1640,
+        "type": "Team",
+        "opponent": {
+          "id": 1640,
+          "name": "Macro Maniacs Esports Club",
+          "acronym": "MCM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1640/macro-maniacs-esports-club-i21d87m8.png"
+        }
+      },
+      {
+        "id": 355,
+        "type": "Team",
+        "opponent": {
+          "id": 355,
+          "name": "Çilekler",
+          "acronym": "CLK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/355/cilekler-f238u6mx.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22204,
+    "tournament_id": 749,
+    "name": "P3P-vs-CLK",
+    "begin_at": "2018-03-06T17:00:00Z",
+    "results": [
+      {
+        "team_id": 354,
+        "score": 0
+      },
+      {
+        "team_id": 355,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:41Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170593,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22204
+      }
+    ],
+    "opponents": [
+      {
+        "id": 354,
+        "type": "Team",
+        "opponent": {
+          "id": 354,
+          "name": "P3P eSports",
+          "acronym": "P3P",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/354/p3p-esports-iljw943r.png"
+        }
+      },
+      {
+        "id": 355,
+        "type": "Team",
+        "opponent": {
+          "id": 355,
+          "name": "Çilekler",
+          "acronym": "CLK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/355/cilekler-f238u6mx.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22203,
+    "tournament_id": 749,
+    "name": "Cap-vs-OHM",
+    "begin_at": "2018-03-06T14:00:00Z",
+    "results": [
+      {
+        "team_id": 1414,
+        "score": 0
+      },
+      {
+        "team_id": 352,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:40Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170592,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22203
+      }
+    ],
+    "opponents": [
+      {
+        "id": 1414,
+        "type": "Team",
+        "opponent": {
+          "id": 1414,
+          "name": "Cappadocia",
+          "acronym": "CAP",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1414/team-cappadocia-14nv1svx.png"
+        }
+      },
+      {
+        "id": 352,
+        "type": "Team",
+        "opponent": {
+          "id": 352,
+          "name": "OYUNHİZMETLERİ E-SPOR KULÜBÜ",
+          "acronym": "OHM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/352/oyunhizmetleri-e-spor-kulubu-bq8nsyn0.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22202,
+    "tournament_id": 749,
+    "name": "BJK-vs-P3P",
+    "begin_at": "2018-02-06T17:00:00Z",
+    "results": [
+      {
+        "team_id": 655,
+        "score": 0
+      },
+      {
+        "team_id": 354,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:40Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170591,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22202
+      }
+    ],
+    "opponents": [
+      {
+        "id": 655,
+        "type": "Team",
+        "opponent": {
+          "id": 655,
+          "name": "Beşiktaş",
+          "acronym": "BJK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/655/besiktas-fgamnalz.png"
+        }
+      },
+      {
+        "id": 354,
+        "type": "Team",
+        "opponent": {
+          "id": 354,
+          "name": "P3P eSports",
+          "acronym": "P3P",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/354/p3p-esports-iljw943r.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22201,
+    "tournament_id": 749,
+    "name": "OHM-vs-CLK",
+    "begin_at": "2018-02-06T18:00:00Z",
+    "results": [
+      {
+        "team_id": 352,
+        "score": 0
+      },
+      {
+        "team_id": 355,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:39Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170590,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22201
+      }
+    ],
+    "opponents": [
+      {
+        "id": 352,
+        "type": "Team",
+        "opponent": {
+          "id": 352,
+          "name": "OYUNHİZMETLERİ E-SPOR KULÜBÜ",
+          "acronym": "OHM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/352/oyunhizmetleri-e-spor-kulubu-bq8nsyn0.png"
+        }
+      },
+      {
+        "id": 355,
+        "type": "Team",
+        "opponent": {
+          "id": 355,
+          "name": "Çilekler",
+          "acronym": "CLK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/355/cilekler-f238u6mx.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22200,
+    "tournament_id": 749,
+    "name": "OHM-vs-BJK",
+    "begin_at": "2018-01-30T16:10:10Z",
+    "results": [
+      {
+        "team_id": 352,
+        "score": 0
+      },
+      {
+        "team_id": 655,
+        "score": 1
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-02-06T22:31:22Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": {
+      "id": 655,
+      "name": "Beşiktaş",
+      "acronym": "BJK",
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/655/besiktas-fgamnalz.png"
+    },
+    "games": [
+      {
+        "id": 170589,
+        "position": 1,
+        "length": 2259,
+        "begin_at": "2018-01-30T16:10:10Z",
+        "finished": true,
+        "winner": {
+          "type": "Team",
+          "id": 655
+        },
+        "winner_type": "Team",
+        "match_id": 22200
+      }
+    ],
+    "opponents": [
+      {
+        "id": 352,
+        "type": "Team",
+        "opponent": {
+          "id": 352,
+          "name": "OYUNHİZMETLERİ E-SPOR KULÜBÜ",
+          "acronym": "OHM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/352/oyunhizmetleri-e-spor-kulubu-bq8nsyn0.png"
+        }
+      },
+      {
+        "id": 655,
+        "type": "Team",
+        "opponent": {
+          "id": 655,
+          "name": "Beşiktaş",
+          "acronym": "BJK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/655/besiktas-fgamnalz.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22199,
+    "tournament_id": 749,
+    "name": "P3P-vs-Cap",
+    "begin_at": "2018-02-13T18:00:00Z",
+    "results": [
+      {
+        "team_id": 354,
+        "score": 0
+      },
+      {
+        "team_id": 1414,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:37Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170588,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22199
+      }
+    ],
+    "opponents": [
+      {
+        "id": 354,
+        "type": "Team",
+        "opponent": {
+          "id": 354,
+          "name": "P3P eSports",
+          "acronym": "P3P",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/354/p3p-esports-iljw943r.png"
+        }
+      },
+      {
+        "id": 1414,
+        "type": "Team",
+        "opponent": {
+          "id": 1414,
+          "name": "Cappadocia",
+          "acronym": "CAP",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1414/team-cappadocia-14nv1svx.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22198,
+    "tournament_id": 749,
+    "name": "CLK-vs-OHM",
+    "begin_at": "2018-02-06T19:00:00Z",
+    "results": [
+      {
+        "team_id": 355,
+        "score": 0
+      },
+      {
+        "team_id": 352,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:36Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170587,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22198
+      }
+    ],
+    "opponents": [
+      {
+        "id": 355,
+        "type": "Team",
+        "opponent": {
+          "id": 355,
+          "name": "Çilekler",
+          "acronym": "CLK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/355/cilekler-f238u6mx.png"
+        }
+      },
+      {
+        "id": 352,
+        "type": "Team",
+        "opponent": {
+          "id": 352,
+          "name": "OYUNHİZMETLERİ E-SPOR KULÜBÜ",
+          "acronym": "OHM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/352/oyunhizmetleri-e-spor-kulubu-bq8nsyn0.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22197,
+    "tournament_id": 749,
+    "name": "BJK-vs-Cap",
+    "begin_at": "2018-02-27T15:00:00Z",
+    "results": [
+      {
+        "team_id": 655,
+        "score": 0
+      },
+      {
+        "team_id": 1414,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:35Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170586,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22197
+      }
+    ],
+    "opponents": [
+      {
+        "id": 655,
+        "type": "Team",
+        "opponent": {
+          "id": 655,
+          "name": "Beşiktaş",
+          "acronym": "BJK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/655/besiktas-fgamnalz.png"
+        }
+      },
+      {
+        "id": 1414,
+        "type": "Team",
+        "opponent": {
+          "id": 1414,
+          "name": "Cappadocia",
+          "acronym": "CAP",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1414/team-cappadocia-14nv1svx.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22196,
+    "tournament_id": 749,
+    "name": "P3P-vs-OHM",
+    "begin_at": "2018-02-27T16:00:00Z",
+    "results": [
+      {
+        "team_id": 354,
+        "score": 0
+      },
+      {
+        "team_id": 352,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:34Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170585,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22196
+      }
+    ],
+    "opponents": [
+      {
+        "id": 354,
+        "type": "Team",
+        "opponent": {
+          "id": 354,
+          "name": "P3P eSports",
+          "acronym": "P3P",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/354/p3p-esports-iljw943r.png"
+        }
+      },
+      {
+        "id": 352,
+        "type": "Team",
+        "opponent": {
+          "id": 352,
+          "name": "OYUNHİZMETLERİ E-SPOR KULÜBÜ",
+          "acronym": "OHM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/352/oyunhizmetleri-e-spor-kulubu-bq8nsyn0.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22195,
+    "tournament_id": 749,
+    "name": "MCM-vs-Cap",
+    "begin_at": "2018-02-06T14:00:00Z",
+    "results": [
+      {
+        "team_id": 1640,
+        "score": 0
+      },
+      {
+        "team_id": 1414,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:34Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170584,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22195
+      }
+    ],
+    "opponents": [
+      {
+        "id": 1640,
+        "type": "Team",
+        "opponent": {
+          "id": 1640,
+          "name": "Macro Maniacs Esports Club",
+          "acronym": "MCM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1640/macro-maniacs-esports-club-i21d87m8.png"
+        }
+      },
+      {
+        "id": 1414,
+        "type": "Team",
+        "opponent": {
+          "id": 1414,
+          "name": "Cappadocia",
+          "acronym": "CAP",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1414/team-cappadocia-14nv1svx.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22194,
+    "tournament_id": 749,
+    "name": "BJK-vs-CLK",
+    "begin_at": "2018-02-13T16:00:00Z",
+    "results": [
+      {
+        "team_id": 655,
+        "score": 0
+      },
+      {
+        "team_id": 355,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:33Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170583,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22194
+      }
+    ],
+    "opponents": [
+      {
+        "id": 655,
+        "type": "Team",
+        "opponent": {
+          "id": 655,
+          "name": "Beşiktaş",
+          "acronym": "BJK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/655/besiktas-fgamnalz.png"
+        }
+      },
+      {
+        "id": 355,
+        "type": "Team",
+        "opponent": {
+          "id": 355,
+          "name": "Çilekler",
+          "acronym": "CLK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/355/cilekler-f238u6mx.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22193,
+    "tournament_id": 749,
+    "name": "BJK-vs-MCM",
+    "begin_at": "2018-03-06T18:00:00Z",
+    "results": [
+      {
+        "team_id": 655,
+        "score": 0
+      },
+      {
+        "team_id": 1640,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:32Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170582,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22193
+      }
+    ],
+    "opponents": [
+      {
+        "id": 655,
+        "type": "Team",
+        "opponent": {
+          "id": 655,
+          "name": "Beşiktaş",
+          "acronym": "BJK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/655/besiktas-fgamnalz.png"
+        }
+      },
+      {
+        "id": 1640,
+        "type": "Team",
+        "opponent": {
+          "id": 1640,
+          "name": "Macro Maniacs Esports Club",
+          "acronym": "MCM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1640/macro-maniacs-esports-club-i21d87m8.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22192,
+    "tournament_id": 749,
+    "name": "MCM-vs-BJK",
+    "begin_at": "2018-03-06T19:00:00Z",
+    "results": [
+      {
+        "team_id": 1640,
+        "score": 0
+      },
+      {
+        "team_id": 655,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:32Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170581,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22192
+      }
+    ],
+    "opponents": [
+      {
+        "id": 1640,
+        "type": "Team",
+        "opponent": {
+          "id": 1640,
+          "name": "Macro Maniacs Esports Club",
+          "acronym": "MCM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1640/macro-maniacs-esports-club-i21d87m8.png"
+        }
+      },
+      {
+        "id": 655,
+        "type": "Team",
+        "opponent": {
+          "id": 655,
+          "name": "Beşiktaş",
+          "acronym": "BJK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/655/besiktas-fgamnalz.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22191,
+    "tournament_id": 749,
+    "name": "CLK-vs-BJK",
+    "begin_at": "2018-02-13T17:00:00Z",
+    "results": [
+      {
+        "team_id": 355,
+        "score": 0
+      },
+      {
+        "team_id": 655,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:31Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170580,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22191
+      }
+    ],
+    "opponents": [
+      {
+        "id": 355,
+        "type": "Team",
+        "opponent": {
+          "id": 355,
+          "name": "Çilekler",
+          "acronym": "CLK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/355/cilekler-f238u6mx.png"
+        }
+      },
+      {
+        "id": 655,
+        "type": "Team",
+        "opponent": {
+          "id": 655,
+          "name": "Beşiktaş",
+          "acronym": "BJK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/655/besiktas-fgamnalz.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22190,
+    "tournament_id": 749,
+    "name": "MCM-vs-OHM",
+    "begin_at": "2018-02-13T15:00:00Z",
+    "results": [
+      {
+        "team_id": 1640,
+        "score": 0
+      },
+      {
+        "team_id": 352,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:28Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170579,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22190
+      }
+    ],
+    "opponents": [
+      {
+        "id": 1640,
+        "type": "Team",
+        "opponent": {
+          "id": 1640,
+          "name": "Macro Maniacs Esports Club",
+          "acronym": "MCM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1640/macro-maniacs-esports-club-i21d87m8.png"
+        }
+      },
+      {
+        "id": 352,
+        "type": "Team",
+        "opponent": {
+          "id": 352,
+          "name": "OYUNHİZMETLERİ E-SPOR KULÜBÜ",
+          "acronym": "OHM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/352/oyunhizmetleri-e-spor-kulubu-bq8nsyn0.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22189,
+    "tournament_id": 749,
+    "name": "CLK-vs-MCM",
+    "begin_at": "2018-02-27T18:00:00Z",
+    "results": [
+      {
+        "team_id": 355,
+        "score": 0
+      },
+      {
+        "team_id": 1640,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:27Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170578,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22189
+      }
+    ],
+    "opponents": [
+      {
+        "id": 355,
+        "type": "Team",
+        "opponent": {
+          "id": 355,
+          "name": "Çilekler",
+          "acronym": "CLK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/355/cilekler-f238u6mx.png"
+        }
+      },
+      {
+        "id": 1640,
+        "type": "Team",
+        "opponent": {
+          "id": 1640,
+          "name": "Macro Maniacs Esports Club",
+          "acronym": "MCM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1640/macro-maniacs-esports-club-i21d87m8.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22188,
+    "tournament_id": 749,
+    "name": "BJK-vs-OHM",
+    "begin_at": "2018-01-30T17:22:19Z",
+    "results": [
+      {
+        "team_id": 655,
+        "score": 1
+      },
+      {
+        "team_id": 352,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-02-06T22:31:11Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": {
+      "id": 655,
+      "name": "Beşiktaş",
+      "acronym": "BJK",
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/655/besiktas-fgamnalz.png"
+    },
+    "games": [
+      {
+        "id": 170577,
+        "position": 1,
+        "length": 1798,
+        "begin_at": "2018-01-30T17:22:19Z",
+        "finished": true,
+        "winner": {
+          "type": "Team",
+          "id": 655
+        },
+        "winner_type": "Team",
+        "match_id": 22188
+      }
+    ],
+    "opponents": [
+      {
+        "id": 655,
+        "type": "Team",
+        "opponent": {
+          "id": 655,
+          "name": "Beşiktaş",
+          "acronym": "BJK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/655/besiktas-fgamnalz.png"
+        }
+      },
+      {
+        "id": 352,
+        "type": "Team",
+        "opponent": {
+          "id": 352,
+          "name": "OYUNHİZMETLERİ E-SPOR KULÜBÜ",
+          "acronym": "OHM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/352/oyunhizmetleri-e-spor-kulubu-bq8nsyn0.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22187,
+    "tournament_id": 749,
+    "name": "Cap-vs-BJK",
+    "begin_at": "2018-02-27T14:00:00Z",
+    "results": [
+      {
+        "team_id": 1414,
+        "score": 0
+      },
+      {
+        "team_id": 655,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:25Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170576,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22187
+      }
+    ],
+    "opponents": [
+      {
+        "id": 1414,
+        "type": "Team",
+        "opponent": {
+          "id": 1414,
+          "name": "Cappadocia",
+          "acronym": "CAP",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1414/team-cappadocia-14nv1svx.png"
+        }
+      },
+      {
+        "id": 655,
+        "type": "Team",
+        "opponent": {
+          "id": 655,
+          "name": "Beşiktaş",
+          "acronym": "BJK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/655/besiktas-fgamnalz.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22186,
+    "tournament_id": 749,
+    "name": "OHM-vs-MCM",
+    "begin_at": "2018-02-13T14:00:00Z",
+    "results": [
+      {
+        "team_id": 352,
+        "score": 0
+      },
+      {
+        "team_id": 1640,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:24Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170575,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22186
+      }
+    ],
+    "opponents": [
+      {
+        "id": 352,
+        "type": "Team",
+        "opponent": {
+          "id": 352,
+          "name": "OYUNHİZMETLERİ E-SPOR KULÜBÜ",
+          "acronym": "OHM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/352/oyunhizmetleri-e-spor-kulubu-bq8nsyn0.png"
+        }
+      },
+      {
+        "id": 1640,
+        "type": "Team",
+        "opponent": {
+          "id": 1640,
+          "name": "Macro Maniacs Esports Club",
+          "acronym": "MCM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1640/macro-maniacs-esports-club-i21d87m8.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22185,
+    "tournament_id": 749,
+    "name": "Cap-vs-CLK",
+    "begin_at": "2018-01-30T13:53:47Z",
+    "results": [
+      {
+        "team_id": 1414,
+        "score": 0
+      },
+      {
+        "team_id": 355,
+        "score": 1
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-02-06T22:31:07Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": {
+      "id": 355,
+      "name": "Çilekler",
+      "acronym": "CLK",
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/355/cilekler-f238u6mx.png"
+    },
+    "games": [
+      {
+        "id": 170574,
+        "position": 1,
+        "length": 2666,
+        "begin_at": "2018-01-30T13:53:47Z",
+        "finished": true,
+        "winner": {
+          "type": "Team",
+          "id": 355
+        },
+        "winner_type": "Team",
+        "match_id": 22185
+      }
+    ],
+    "opponents": [
+      {
+        "id": 1414,
+        "type": "Team",
+        "opponent": {
+          "id": 1414,
+          "name": "Cappadocia",
+          "acronym": "CAP",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1414/team-cappadocia-14nv1svx.png"
+        }
+      },
+      {
+        "id": 355,
+        "type": "Team",
+        "opponent": {
+          "id": 355,
+          "name": "Çilekler",
+          "acronym": "CLK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/355/cilekler-f238u6mx.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22184,
+    "tournament_id": 749,
+    "name": "OHM-vs-Cap",
+    "begin_at": "2018-03-06T15:00:00Z",
+    "results": [
+      {
+        "team_id": 352,
+        "score": 0
+      },
+      {
+        "team_id": 1414,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:22Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170573,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22184
+      }
+    ],
+    "opponents": [
+      {
+        "id": 352,
+        "type": "Team",
+        "opponent": {
+          "id": 352,
+          "name": "OYUNHİZMETLERİ E-SPOR KULÜBÜ",
+          "acronym": "OHM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/352/oyunhizmetleri-e-spor-kulubu-bq8nsyn0.png"
+        }
+      },
+      {
+        "id": 1414,
+        "type": "Team",
+        "opponent": {
+          "id": 1414,
+          "name": "Cappadocia",
+          "acronym": "CAP",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1414/team-cappadocia-14nv1svx.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22183,
+    "tournament_id": 749,
+    "name": "CLK-vs-P3P",
+    "begin_at": "2018-03-06T16:00:00Z",
+    "results": [
+      {
+        "team_id": 355,
+        "score": 0
+      },
+      {
+        "team_id": 354,
+        "score": 0
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-01-28T05:27:21Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170572,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22183
+      }
+    ],
+    "opponents": [
+      {
+        "id": 355,
+        "type": "Team",
+        "opponent": {
+          "id": 355,
+          "name": "Çilekler",
+          "acronym": "CLK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/355/cilekler-f238u6mx.png"
+        }
+      },
+      {
+        "id": 354,
+        "type": "Team",
+        "opponent": {
+          "id": 354,
+          "name": "P3P eSports",
+          "acronym": "P3P",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/354/p3p-esports-iljw943r.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22182,
+    "tournament_id": 749,
+    "name": "P3P-vs-MCM",
+    "begin_at": "2018-01-30T19:24:48Z",
+    "results": [
+      {
+        "team_id": 354,
+        "score": 0
+      },
+      {
+        "team_id": 1640,
+        "score": 1
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-02-06T22:31:02Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": {
+      "id": 1640,
+      "name": "Macro Maniacs Esports Club",
+      "acronym": "MCM",
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1640/macro-maniacs-esports-club-i21d87m8.png"
+    },
+    "games": [
+      {
+        "id": 170571,
+        "position": 1,
+        "length": 1811,
+        "begin_at": "2018-01-30T19:24:48Z",
+        "finished": true,
+        "winner": {
+          "type": "Team",
+          "id": 1640
+        },
+        "winner_type": "Team",
+        "match_id": 22182
+      }
+    ],
+    "opponents": [
+      {
+        "id": 354,
+        "type": "Team",
+        "opponent": {
+          "id": 354,
+          "name": "P3P eSports",
+          "acronym": "P3P",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/354/p3p-esports-iljw943r.png"
+        }
+      },
+      {
+        "id": 1640,
+        "type": "Team",
+        "opponent": {
+          "id": 1640,
+          "name": "Macro Maniacs Esports Club",
+          "acronym": "MCM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1640/macro-maniacs-esports-club-i21d87m8.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22181,
+    "tournament_id": 749,
+    "name": "CLK-vs-Cap",
+    "begin_at": "2018-01-30T15:06:46Z",
+    "results": [
+      {
+        "team_id": 355,
+        "score": 0
+      },
+      {
+        "team_id": 1414,
+        "score": 1
+      }
+    ],
+    "serie_id": 1377,
+    "league_id": 1089,
+    "serie": {
+      "id": 1377,
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018",
+      "name": "tcs",
+      "season": "winter",
+      "year": 2018
+    },
+    "league": {
+      "id": 1089,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/1089/turkey-challenger-series-h3fkut0m.png",
+      "url": null,
+      "name": "Turkey Challenger Series",
+      "slug": "league-of-legends-turkey-challenger-series"
+    },
+    "updated_at": "2018-02-06T22:30:59Z",
+    "number_of_games": 1,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 749,
+      "name": "Group stage",
+      "slug": "league-of-legends-turkey-challenger-series-tcs-winter-2018-group-stage",
+      "winner_id": null,
+      "begin_at": "2018-01-30T00:00:00Z",
+      "end_at": "2018-03-06T00:00:00Z",
+      "serie_id": 1377,
+      "league_id": 1089
+    },
+    "winner": {
+      "id": 1414,
+      "name": "Cappadocia",
+      "acronym": "CAP",
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1414/team-cappadocia-14nv1svx.png"
+    },
+    "games": [
+      {
+        "id": 170570,
+        "position": 1,
+        "length": 1918,
+        "begin_at": "2018-01-30T15:06:46Z",
+        "finished": true,
+        "winner": {
+          "type": "Team",
+          "id": 1414
+        },
+        "winner_type": "Team",
+        "match_id": 22181
+      }
+    ],
+    "opponents": [
+      {
+        "id": 355,
+        "type": "Team",
+        "opponent": {
+          "id": 355,
+          "name": "Çilekler",
+          "acronym": "CLK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/355/cilekler-f238u6mx.png"
+        }
+      },
+      {
+        "id": 1414,
+        "type": "Team",
+        "opponent": {
+          "id": 1414,
+          "name": "Cappadocia",
+          "acronym": "CAP",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/1414/team-cappadocia-14nv1svx.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22176,
+    "tournament_id": 729,
+    "name": "CNB vs RCC",
+    "begin_at": "2016-05-19T18:00:00Z",
+    "results": [
+      {
+        "team_id": 156,
+        "score": 0
+      },
+      {
+        "team_id": 161,
+        "score": 0
+      }
+    ],
+    "serie_id": 1367,
+    "league_id": 302,
+    "serie": {
+      "id": 1367,
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split2-2016",
+      "name": "cblol relegation split2",
+      "season": null,
+      "year": 2016
+    },
+    "league": {
+      "id": 302,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/302/cblol-brazil-dba70xuw.png",
+      "url": null,
+      "name": "CBLOL Brazil",
+      "slug": "league-of-legends-cblol-brazil"
+    },
+    "updated_at": "2018-02-09T15:02:34Z",
+    "number_of_games": 2,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 729,
+      "name": "Regular season",
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split2-2016-regular-season",
+      "winner_id": 156,
+      "begin_at": "2016-05-18T22:00:00Z",
+      "end_at": "2016-06-19T21:00:00Z",
+      "serie_id": 1367,
+      "league_id": 302
+    },
+    "winner": {
+      "id": 156,
+      "name": "CNB e-Sports Club",
+      "acronym": "CNB",
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/156/cnb-e-sports-club-9lut47ns.png"
+    },
+    "games": [
+      {
+        "id": 170560,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22176
+      },
+      {
+        "id": 170561,
+        "position": 2,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22176
+      }
+    ],
+    "opponents": [
+      {
+        "id": 156,
+        "type": "Team",
+        "opponent": {
+          "id": 156,
+          "name": "CNB e-Sports Club",
+          "acronym": "CNB",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/156/cnb-e-sports-club-9lut47ns.png"
+        }
+      },
+      {
+        "id": 161,
+        "type": "Team",
+        "opponent": {
+          "id": 161,
+          "name": "Red Canids Corinthians",
+          "acronym": "RCC",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/161/red-canids-3ci94wz2.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22175,
+    "tournament_id": 729,
+    "name": "ITZ vs VK",
+    "begin_at": "2016-05-19T16:00:00Z",
+    "results": [
+      {
+        "team_id": 158,
+        "score": 0
+      },
+      {
+        "team_id": 157,
+        "score": 0
+      }
+    ],
+    "serie_id": 1367,
+    "league_id": 302,
+    "serie": {
+      "id": 1367,
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split2-2016",
+      "name": "cblol relegation split2",
+      "season": null,
+      "year": 2016
+    },
+    "league": {
+      "id": 302,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/302/cblol-brazil-dba70xuw.png",
+      "url": null,
+      "name": "CBLOL Brazil",
+      "slug": "league-of-legends-cblol-brazil"
+    },
+    "updated_at": "2018-01-27T11:59:13Z",
+    "number_of_games": 2,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 729,
+      "name": "Regular season",
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split2-2016-regular-season",
+      "winner_id": 156,
+      "begin_at": "2016-05-18T22:00:00Z",
+      "end_at": "2016-06-19T21:00:00Z",
+      "serie_id": 1367,
+      "league_id": 302
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170558,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22175
+      },
+      {
+        "id": 170559,
+        "position": 2,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22175
+      }
+    ],
+    "opponents": [
+      {
+        "id": 158,
+        "type": "Team",
+        "opponent": {
+          "id": 158,
+          "name": "INTZ e-Sports Club",
+          "acronym": "ITZ",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/158/intz-4efrgzsr.png"
+        }
+      },
+      {
+        "id": 157,
+        "type": "Team",
+        "opponent": {
+          "id": 157,
+          "name": "Vivo Keyd",
+          "acronym": "VK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/157/keyd-stars-3vn1b2nc.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22174,
+    "tournament_id": 714,
+    "name": "paiN Gaming vs KaBuM eSports",
+    "begin_at": "2016-01-24T17:00:00Z",
+    "results": [
+      {
+        "team_id": 94,
+        "score": 0
+      },
+      {
+        "team_id": 33,
+        "score": 0
+      }
+    ],
+    "serie_id": 1365,
+    "league_id": 302,
+    "serie": {
+      "id": 1365,
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split1-2016",
+      "name": "cblol relegation split1",
+      "season": "summer",
+      "year": 2016
+    },
+    "league": {
+      "id": 302,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/302/cblol-brazil-dba70xuw.png",
+      "url": null,
+      "name": "CBLOL Brazil",
+      "slug": "league-of-legends-cblol-brazil"
+    },
+    "updated_at": "2018-02-09T15:02:31Z",
+    "number_of_games": 2,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 714,
+      "name": "Week two",
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split1-2016-week-two",
+      "winner_id": 157,
+      "begin_at": "2016-01-22T23:00:00Z",
+      "end_at": "2016-02-23T23:00:00Z",
+      "serie_id": 1365,
+      "league_id": 302
+    },
+    "winner": {
+      "id": 94,
+      "name": "paiN Gaming",
+      "acronym": "paiN",
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/94/pain-gaming-farnhu45.png"
+    },
+    "games": [
+      {
+        "id": 170556,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22174
+      },
+      {
+        "id": 170557,
+        "position": 2,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22174
+      }
+    ],
+    "opponents": [
+      {
+        "id": 94,
+        "type": "Team",
+        "opponent": {
+          "id": 94,
+          "name": "paiN Gaming",
+          "acronym": "paiN",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/94/pain-gaming-farnhu45.png"
+        }
+      },
+      {
+        "id": 33,
+        "type": "Team",
+        "opponent": {
+          "id": 33,
+          "name": "KaBuM eSports",
+          "acronym": "KBM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/33/kabum-orange-40q3wwd1.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22173,
+    "tournament_id": 714,
+    "name": "Operation Kino e-Sports vs g3nerationX",
+    "begin_at": "2016-01-24T15:00:00Z",
+    "results": [
+      {
+        "team_id": 170,
+        "score": 0
+      },
+      {
+        "team_id": 160,
+        "score": 0
+      }
+    ],
+    "serie_id": 1365,
+    "league_id": 302,
+    "serie": {
+      "id": 1365,
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split1-2016",
+      "name": "cblol relegation split1",
+      "season": "summer",
+      "year": 2016
+    },
+    "league": {
+      "id": 302,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/302/cblol-brazil-dba70xuw.png",
+      "url": null,
+      "name": "CBLOL Brazil",
+      "slug": "league-of-legends-cblol-brazil"
+    },
+    "updated_at": "2018-01-26T11:34:23Z",
+    "number_of_games": 2,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 714,
+      "name": "Week two",
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split1-2016-week-two",
+      "winner_id": 157,
+      "begin_at": "2016-01-22T23:00:00Z",
+      "end_at": "2016-02-23T23:00:00Z",
+      "serie_id": 1365,
+      "league_id": 302
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170554,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22173
+      },
+      {
+        "id": 170555,
+        "position": 2,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22173
+      }
+    ],
+    "opponents": [
+      {
+        "id": 170,
+        "type": "Team",
+        "opponent": {
+          "id": 170,
+          "name": "Operation Kino e-Sports",
+          "acronym": "OPK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/170/operation-kino-eakk6w69.png"
+        }
+      },
+      {
+        "id": 160,
+        "type": "Team",
+        "opponent": {
+          "id": 160,
+          "name": "g3nerationX",
+          "acronym": "G3X",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/160/g3nerationx-eunv262l.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22172,
+    "tournament_id": 714,
+    "name": "Vivo Keyd vs CNB e-Sports Club",
+    "begin_at": "2016-01-23T17:00:00Z",
+    "results": [
+      {
+        "team_id": 157,
+        "score": 0
+      },
+      {
+        "team_id": 156,
+        "score": 0
+      }
+    ],
+    "serie_id": 1365,
+    "league_id": 302,
+    "serie": {
+      "id": 1365,
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split1-2016",
+      "name": "cblol relegation split1",
+      "season": "summer",
+      "year": 2016
+    },
+    "league": {
+      "id": 302,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/302/cblol-brazil-dba70xuw.png",
+      "url": null,
+      "name": "CBLOL Brazil",
+      "slug": "league-of-legends-cblol-brazil"
+    },
+    "updated_at": "2018-02-09T15:02:31Z",
+    "number_of_games": 2,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 714,
+      "name": "Week two",
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split1-2016-week-two",
+      "winner_id": 157,
+      "begin_at": "2016-01-22T23:00:00Z",
+      "end_at": "2016-02-23T23:00:00Z",
+      "serie_id": 1365,
+      "league_id": 302
+    },
+    "winner": {
+      "id": 157,
+      "name": "Vivo Keyd",
+      "acronym": "VK",
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/157/keyd-stars-3vn1b2nc.png"
+    },
+    "games": [
+      {
+        "id": 170552,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22172
+      },
+      {
+        "id": 170553,
+        "position": 2,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22172
+      }
+    ],
+    "opponents": [
+      {
+        "id": 157,
+        "type": "Team",
+        "opponent": {
+          "id": 157,
+          "name": "Vivo Keyd",
+          "acronym": "VK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/157/keyd-stars-3vn1b2nc.png"
+        }
+      },
+      {
+        "id": 156,
+        "type": "Team",
+        "opponent": {
+          "id": 156,
+          "name": "CNB e-Sports Club",
+          "acronym": "CNB",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/156/cnb-e-sports-club-9lut47ns.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22171,
+    "tournament_id": 714,
+    "name": "Red Canids Corinthians vs INTZ e-Sports Club",
+    "begin_at": "2016-01-23T15:00:00Z",
+    "results": [
+      {
+        "team_id": 161,
+        "score": 0
+      },
+      {
+        "team_id": 158,
+        "score": 0
+      }
+    ],
+    "serie_id": 1365,
+    "league_id": 302,
+    "serie": {
+      "id": 1365,
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split1-2016",
+      "name": "cblol relegation split1",
+      "season": "summer",
+      "year": 2016
+    },
+    "league": {
+      "id": 302,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/302/cblol-brazil-dba70xuw.png",
+      "url": null,
+      "name": "CBLOL Brazil",
+      "slug": "league-of-legends-cblol-brazil"
+    },
+    "updated_at": "2018-02-09T15:02:31Z",
+    "number_of_games": 2,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 714,
+      "name": "Week two",
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split1-2016-week-two",
+      "winner_id": 157,
+      "begin_at": "2016-01-22T23:00:00Z",
+      "end_at": "2016-02-23T23:00:00Z",
+      "serie_id": 1365,
+      "league_id": 302
+    },
+    "winner": {
+      "id": 158,
+      "name": "INTZ e-Sports Club",
+      "acronym": "ITZ",
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/158/intz-4efrgzsr.png"
+    },
+    "games": [
+      {
+        "id": 170550,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22171
+      },
+      {
+        "id": 170551,
+        "position": 2,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22171
+      }
+    ],
+    "opponents": [
+      {
+        "id": 161,
+        "type": "Team",
+        "opponent": {
+          "id": 161,
+          "name": "Red Canids Corinthians",
+          "acronym": "RCC",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/161/red-canids-3ci94wz2.png"
+        }
+      },
+      {
+        "id": 158,
+        "type": "Team",
+        "opponent": {
+          "id": 158,
+          "name": "INTZ e-Sports Club",
+          "acronym": "ITZ",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/158/intz-4efrgzsr.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22170,
+    "tournament_id": 713,
+    "name": "KaBuM eSports vs Red Canids Corinthians",
+    "begin_at": "2016-01-17T17:00:00Z",
+    "results": [
+      {
+        "team_id": 33,
+        "score": 0
+      },
+      {
+        "team_id": 161,
+        "score": 0
+      }
+    ],
+    "serie_id": 1365,
+    "league_id": 302,
+    "serie": {
+      "id": 1365,
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split1-2016",
+      "name": "cblol relegation split1",
+      "season": "summer",
+      "year": 2016
+    },
+    "league": {
+      "id": 302,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/302/cblol-brazil-dba70xuw.png",
+      "url": null,
+      "name": "CBLOL Brazil",
+      "slug": "league-of-legends-cblol-brazil"
+    },
+    "updated_at": "2018-01-26T10:37:11Z",
+    "number_of_games": 2,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 713,
+      "name": "Week one",
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split1-2016-week",
+      "winner_id": 157,
+      "begin_at": "2016-01-16T07:04:37Z",
+      "end_at": "2016-01-17T07:05:12Z",
+      "serie_id": 1365,
+      "league_id": 302
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170548,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22170
+      },
+      {
+        "id": 170549,
+        "position": 2,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22170
+      }
+    ],
+    "opponents": [
+      {
+        "id": 33,
+        "type": "Team",
+        "opponent": {
+          "id": 33,
+          "name": "KaBuM eSports",
+          "acronym": "KBM",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/33/kabum-orange-40q3wwd1.png"
+        }
+      },
+      {
+        "id": 161,
+        "type": "Team",
+        "opponent": {
+          "id": 161,
+          "name": "Red Canids Corinthians",
+          "acronym": "RCC",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/161/red-canids-3ci94wz2.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22169,
+    "tournament_id": 713,
+    "name": "Vivo Keyd vs g3nerationX",
+    "begin_at": "2016-01-17T15:00:00Z",
+    "results": [
+      {
+        "team_id": 157,
+        "score": 0
+      },
+      {
+        "team_id": 160,
+        "score": 0
+      }
+    ],
+    "serie_id": 1365,
+    "league_id": 302,
+    "serie": {
+      "id": 1365,
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split1-2016",
+      "name": "cblol relegation split1",
+      "season": "summer",
+      "year": 2016
+    },
+    "league": {
+      "id": 302,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/302/cblol-brazil-dba70xuw.png",
+      "url": null,
+      "name": "CBLOL Brazil",
+      "slug": "league-of-legends-cblol-brazil"
+    },
+    "updated_at": "2018-02-09T15:02:32Z",
+    "number_of_games": 2,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 713,
+      "name": "Week one",
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split1-2016-week",
+      "winner_id": 157,
+      "begin_at": "2016-01-16T07:04:37Z",
+      "end_at": "2016-01-17T07:05:12Z",
+      "serie_id": 1365,
+      "league_id": 302
+    },
+    "winner": {
+      "id": 157,
+      "name": "Vivo Keyd",
+      "acronym": "VK",
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/157/keyd-stars-3vn1b2nc.png"
+    },
+    "games": [
+      {
+        "id": 170546,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22169
+      },
+      {
+        "id": 170547,
+        "position": 2,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22169
+      }
+    ],
+    "opponents": [
+      {
+        "id": 157,
+        "type": "Team",
+        "opponent": {
+          "id": 157,
+          "name": "Vivo Keyd",
+          "acronym": "VK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/157/keyd-stars-3vn1b2nc.png"
+        }
+      },
+      {
+        "id": 160,
+        "type": "Team",
+        "opponent": {
+          "id": 160,
+          "name": "g3nerationX",
+          "acronym": "G3X",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/160/g3nerationx-eunv262l.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22168,
+    "tournament_id": 713,
+    "name": "Operation Kino e-Sports vs CNB e-Sports Club",
+    "begin_at": "2016-01-16T17:00:00Z",
+    "results": [
+      {
+        "team_id": 170,
+        "score": 0
+      },
+      {
+        "team_id": 156,
+        "score": 0
+      }
+    ],
+    "serie_id": 1365,
+    "league_id": 302,
+    "serie": {
+      "id": 1365,
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split1-2016",
+      "name": "cblol relegation split1",
+      "season": "summer",
+      "year": 2016
+    },
+    "league": {
+      "id": 302,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/302/cblol-brazil-dba70xuw.png",
+      "url": null,
+      "name": "CBLOL Brazil",
+      "slug": "league-of-legends-cblol-brazil"
+    },
+    "updated_at": "2018-02-09T15:02:31Z",
+    "number_of_games": 2,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 713,
+      "name": "Week one",
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split1-2016-week",
+      "winner_id": 157,
+      "begin_at": "2016-01-16T07:04:37Z",
+      "end_at": "2016-01-17T07:05:12Z",
+      "serie_id": 1365,
+      "league_id": 302
+    },
+    "winner": {
+      "id": 170,
+      "name": "Operation Kino e-Sports",
+      "acronym": "OPK",
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/170/operation-kino-eakk6w69.png"
+    },
+    "games": [
+      {
+        "id": 170544,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22168
+      },
+      {
+        "id": 170545,
+        "position": 2,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22168
+      }
+    ],
+    "opponents": [
+      {
+        "id": 170,
+        "type": "Team",
+        "opponent": {
+          "id": 170,
+          "name": "Operation Kino e-Sports",
+          "acronym": "OPK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/170/operation-kino-eakk6w69.png"
+        }
+      },
+      {
+        "id": 156,
+        "type": "Team",
+        "opponent": {
+          "id": 156,
+          "name": "CNB e-Sports Club",
+          "acronym": "CNB",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/156/cnb-e-sports-club-9lut47ns.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22167,
+    "tournament_id": 713,
+    "name": "paiN Gaming vs INTZ e-Sports Club",
+    "begin_at": "2016-01-16T15:00:00Z",
+    "results": [
+      {
+        "team_id": 94,
+        "score": 0
+      },
+      {
+        "team_id": 158,
+        "score": 0
+      }
+    ],
+    "serie_id": 1365,
+    "league_id": 302,
+    "serie": {
+      "id": 1365,
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split1-2016",
+      "name": "cblol relegation split1",
+      "season": "summer",
+      "year": 2016
+    },
+    "league": {
+      "id": 302,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/302/cblol-brazil-dba70xuw.png",
+      "url": null,
+      "name": "CBLOL Brazil",
+      "slug": "league-of-legends-cblol-brazil"
+    },
+    "updated_at": "2018-01-26T10:33:18Z",
+    "number_of_games": 2,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 713,
+      "name": "Week one",
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split1-2016-week",
+      "winner_id": 157,
+      "begin_at": "2016-01-16T07:04:37Z",
+      "end_at": "2016-01-17T07:05:12Z",
+      "serie_id": 1365,
+      "league_id": 302
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170542,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22167
+      },
+      {
+        "id": 170543,
+        "position": 2,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22167
+      }
+    ],
+    "opponents": [
+      {
+        "id": 94,
+        "type": "Team",
+        "opponent": {
+          "id": 94,
+          "name": "paiN Gaming",
+          "acronym": "paiN",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/94/pain-gaming-farnhu45.png"
+        }
+      },
+      {
+        "id": 158,
+        "type": "Team",
+        "opponent": {
+          "id": 158,
+          "name": "INTZ e-Sports Club",
+          "acronym": "ITZ",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/158/intz-4efrgzsr.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22166,
+    "tournament_id": 731,
+    "name": "INTZ e-Sports Club vs CNB e-Sports Club",
+    "begin_at": "2016-07-09T15:00:00Z",
+    "results": [
+      {
+        "team_id": 158,
+        "score": 0
+      },
+      {
+        "team_id": 156,
+        "score": 0
+      }
+    ],
+    "serie_id": 1367,
+    "league_id": 302,
+    "serie": {
+      "id": 1367,
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split2-2016",
+      "name": "cblol relegation split2",
+      "season": null,
+      "year": 2016
+    },
+    "league": {
+      "id": 302,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/302/cblol-brazil-dba70xuw.png",
+      "url": null,
+      "name": "CBLOL Brazil",
+      "slug": "league-of-legends-cblol-brazil"
+    },
+    "updated_at": "2018-02-09T15:02:28Z",
+    "number_of_games": 5,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 731,
+      "name": "Regular playoffs",
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split2-2016-regular-playoffs",
+      "winner_id": 158,
+      "begin_at": "2016-06-23T23:00:00Z",
+      "end_at": "2016-07-09T21:00:00Z",
+      "serie_id": 1367,
+      "league_id": 302
+    },
+    "winner": {
+      "id": 158,
+      "name": "INTZ e-Sports Club",
+      "acronym": "ITZ",
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/158/intz-4efrgzsr.png"
+    },
+    "games": [
+      {
+        "id": 170516,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22166
+      },
+      {
+        "id": 170517,
+        "position": 2,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22166
+      },
+      {
+        "id": 170518,
+        "position": 3,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22166
+      },
+      {
+        "id": 170519,
+        "position": 4,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22166
+      },
+      {
+        "id": 170520,
+        "position": 5,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22166
+      }
+    ],
+    "opponents": [
+      {
+        "id": 158,
+        "type": "Team",
+        "opponent": {
+          "id": 158,
+          "name": "INTZ e-Sports Club",
+          "acronym": "ITZ",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/158/intz-4efrgzsr.png"
+        }
+      },
+      {
+        "id": 156,
+        "type": "Team",
+        "opponent": {
+          "id": 156,
+          "name": "CNB e-Sports Club",
+          "acronym": "CNB",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/156/cnb-e-sports-club-9lut47ns.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22165,
+    "tournament_id": 731,
+    "name": "INTZ e-Sports Club vs paiN Gaming",
+    "begin_at": "2016-06-26T16:00:00Z",
+    "results": [
+      {
+        "team_id": 158,
+        "score": 0
+      },
+      {
+        "team_id": 94,
+        "score": 0
+      }
+    ],
+    "serie_id": 1367,
+    "league_id": 302,
+    "serie": {
+      "id": 1367,
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split2-2016",
+      "name": "cblol relegation split2",
+      "season": null,
+      "year": 2016
+    },
+    "league": {
+      "id": 302,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/302/cblol-brazil-dba70xuw.png",
+      "url": null,
+      "name": "CBLOL Brazil",
+      "slug": "league-of-legends-cblol-brazil"
+    },
+    "updated_at": "2018-02-09T15:02:28Z",
+    "number_of_games": 5,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 731,
+      "name": "Regular playoffs",
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split2-2016-regular-playoffs",
+      "winner_id": 158,
+      "begin_at": "2016-06-23T23:00:00Z",
+      "end_at": "2016-07-09T21:00:00Z",
+      "serie_id": 1367,
+      "league_id": 302
+    },
+    "winner": {
+      "id": 158,
+      "name": "INTZ e-Sports Club",
+      "acronym": "ITZ",
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/158/intz-4efrgzsr.png"
+    },
+    "games": [
+      {
+        "id": 170511,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22165
+      },
+      {
+        "id": 170512,
+        "position": 2,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22165
+      },
+      {
+        "id": 170513,
+        "position": 3,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22165
+      },
+      {
+        "id": 170514,
+        "position": 4,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22165
+      },
+      {
+        "id": 170515,
+        "position": 5,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22165
+      }
+    ],
+    "opponents": [
+      {
+        "id": 158,
+        "type": "Team",
+        "opponent": {
+          "id": 158,
+          "name": "INTZ e-Sports Club",
+          "acronym": "ITZ",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/158/intz-4efrgzsr.png"
+        }
+      },
+      {
+        "id": 94,
+        "type": "Team",
+        "opponent": {
+          "id": 94,
+          "name": "paiN Gaming",
+          "acronym": "paiN",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/94/pain-gaming-farnhu45.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22164,
+    "tournament_id": 731,
+    "name": "CNB e-Sports Club vs Vivo Keyd",
+    "begin_at": "2016-06-25T16:00:00Z",
+    "results": [
+      {
+        "team_id": 156,
+        "score": 0
+      },
+      {
+        "team_id": 157,
+        "score": 0
+      }
+    ],
+    "serie_id": 1367,
+    "league_id": 302,
+    "serie": {
+      "id": 1367,
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split2-2016",
+      "name": "cblol relegation split2",
+      "season": null,
+      "year": 2016
+    },
+    "league": {
+      "id": 302,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/302/cblol-brazil-dba70xuw.png",
+      "url": null,
+      "name": "CBLOL Brazil",
+      "slug": "league-of-legends-cblol-brazil"
+    },
+    "updated_at": "2018-02-09T15:02:28Z",
+    "number_of_games": 5,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 731,
+      "name": "Regular playoffs",
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split2-2016-regular-playoffs",
+      "winner_id": 158,
+      "begin_at": "2016-06-23T23:00:00Z",
+      "end_at": "2016-07-09T21:00:00Z",
+      "serie_id": 1367,
+      "league_id": 302
+    },
+    "winner": {
+      "id": 156,
+      "name": "CNB e-Sports Club",
+      "acronym": "CNB",
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/156/cnb-e-sports-club-9lut47ns.png"
+    },
+    "games": [
+      {
+        "id": 170506,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22164
+      },
+      {
+        "id": 170507,
+        "position": 2,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22164
+      },
+      {
+        "id": 170508,
+        "position": 3,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22164
+      },
+      {
+        "id": 170509,
+        "position": 4,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22164
+      },
+      {
+        "id": 170510,
+        "position": 5,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22164
+      }
+    ],
+    "opponents": [
+      {
+        "id": 156,
+        "type": "Team",
+        "opponent": {
+          "id": 156,
+          "name": "CNB e-Sports Club",
+          "acronym": "CNB",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/156/cnb-e-sports-club-9lut47ns.png"
+        }
+      },
+      {
+        "id": 157,
+        "type": "Team",
+        "opponent": {
+          "id": 157,
+          "name": "Vivo Keyd",
+          "acronym": "VK",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/157/keyd-stars-3vn1b2nc.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22163,
+    "tournament_id": 731,
+    "name": "Red Canids Corinthians vs Big Gods eSports",
+    "begin_at": "2016-06-24T16:00:00Z",
+    "results": [
+      {
+        "team_id": 161,
+        "score": 0
+      },
+      {
+        "team_id": 162,
+        "score": 0
+      }
+    ],
+    "serie_id": 1367,
+    "league_id": 302,
+    "serie": {
+      "id": 1367,
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split2-2016",
+      "name": "cblol relegation split2",
+      "season": null,
+      "year": 2016
+    },
+    "league": {
+      "id": 302,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/302/cblol-brazil-dba70xuw.png",
+      "url": null,
+      "name": "CBLOL Brazil",
+      "slug": "league-of-legends-cblol-brazil"
+    },
+    "updated_at": "2018-02-09T15:02:27Z",
+    "number_of_games": 5,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 731,
+      "name": "Regular playoffs",
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split2-2016-regular-playoffs",
+      "winner_id": 158,
+      "begin_at": "2016-06-23T23:00:00Z",
+      "end_at": "2016-07-09T21:00:00Z",
+      "serie_id": 1367,
+      "league_id": 302
+    },
+    "winner": {
+      "id": 161,
+      "name": "Red Canids Corinthians",
+      "acronym": "RCC",
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/161/red-canids-3ci94wz2.png"
+    },
+    "games": [
+      {
+        "id": 170504,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22163
+      },
+      {
+        "id": 170505,
+        "position": 2,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22163
+      }
+    ],
+    "opponents": [
+      {
+        "id": 161,
+        "type": "Team",
+        "opponent": {
+          "id": 161,
+          "name": "Red Canids Corinthians",
+          "acronym": "RCC",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/161/red-canids-3ci94wz2.png"
+        }
+      },
+      {
+        "id": 162,
+        "type": "Team",
+        "opponent": {
+          "id": 162,
+          "name": "Big Gods eSports",
+          "acronym": "BG",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/162/biggods-esports-6r46q0b4.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  },
+  {
+    "id": 22162,
+    "tournament_id": 719,
+    "name": "g3nerationX vs paiN Gaming",
+    "begin_at": "2016-02-28T17:00:00Z",
+    "results": [
+      {
+        "team_id": 160,
+        "score": 0
+      },
+      {
+        "team_id": 94,
+        "score": 0
+      }
+    ],
+    "serie_id": 1365,
+    "league_id": 302,
+    "serie": {
+      "id": 1365,
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split1-2016",
+      "name": "cblol relegation split1",
+      "season": "summer",
+      "year": 2016
+    },
+    "league": {
+      "id": 302,
+      "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/league/image/302/cblol-brazil-dba70xuw.png",
+      "url": null,
+      "name": "CBLOL Brazil",
+      "slug": "league-of-legends-cblol-brazil"
+    },
+    "updated_at": "2018-01-26T02:37:02Z",
+    "number_of_games": 2,
+    "videogame": {
+      "id": 1,
+      "name": "LoL",
+      "slug": "league-of-legends"
+    },
+    "tournament": {
+      "id": 719,
+      "name": "Superweek",
+      "slug": "league-of-legends-cblol-brazil-cblol-relegation-split1-2016-superweek",
+      "winner_id": 157,
+      "begin_at": "2016-02-24T23:00:00Z",
+      "end_at": "2016-02-27T23:00:00Z",
+      "serie_id": 1365,
+      "league_id": 302
+    },
+    "winner": null,
+    "games": [
+      {
+        "id": 170502,
+        "position": 1,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22162
+      },
+      {
+        "id": 170503,
+        "position": 2,
+        "length": null,
+        "begin_at": null,
+        "finished": false,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "winner_type": null,
+        "match_id": 22162
+      }
+    ],
+    "opponents": [
+      {
+        "id": 160,
+        "type": "Team",
+        "opponent": {
+          "id": 160,
+          "name": "g3nerationX",
+          "acronym": "G3X",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/160/g3nerationx-eunv262l.png"
+        }
+      },
+      {
+        "id": 94,
+        "type": "Team",
+        "opponent": {
+          "id": 94,
+          "name": "paiN Gaming",
+          "acronym": "paiN",
+          "image_url": "https://pandacdn.blob.core.windows.net/cdn/images/team/image/94/pain-gaming-farnhu45.png"
+        }
+      }
+    ],
+    "start": "Invalid date"
+  }
+]

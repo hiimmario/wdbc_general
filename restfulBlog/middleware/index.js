@@ -58,4 +58,4 @@ middlewareObject.checkCommentOwnership = function (req, res, next) {
     }
 };
 
-module.exports = middlewareObject
+module.exports = middlewareObject;

@@ -24,6 +24,7 @@ var flash                   = require("connect-flash");
 
 //mongoo config
 mongoose.connect("mongodb://localhost/restfulBlogApp");
+
 app.set("view engine", "ejs");
 app.use(express.static(__dirname + "/public"));
 app.use(bodyParser.urlencoded({extended: true}));
