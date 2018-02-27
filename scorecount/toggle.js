@@ -23,7 +23,7 @@ p1b.addEventListener("click", function() {
         scorep1display.textContent = p1score;
 	}
 });
-
++
 p2b.addEventListener("click", function() {
 	if(!gameover) {
         p2score++;
